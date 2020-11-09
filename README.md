@@ -1,0 +1,2 @@
+# RPM_Arduino_Endothermic_Engine
+An easy way to connect every endotermic motor to arduino with a few hardware requirement. You need the Common Tachometer that you see in the image, open it and you need to solder two cable where you can see in the other photo.. White is -, Yellow is +. Yellow cable will give out a square wave (Vmax=3.30V, PIN 2 Arduino), and White cable should be connected to the ground of Arduino.
